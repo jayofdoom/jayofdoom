@@ -26,7 +26,9 @@ Ironic
 [OpenStack](https://www.openstack.org), primarily written in Python, is a cloud
 computing platform. I've been working on [Ironic](https://ironicbaremetal.org),
 a component that plugs into OpenStack -- or can be used standalone -- to
-provision real, physical hardware as easily as one can provision VMs.
+provision real, physical hardware as easily as one can provision VMs. I
+currently serve as a member of the OpenStack Technical Committee and as
+Project Team Lead for OpenStack Ironic.
 
 I've been a working on Ironic since the icehouse cycle (2014), and have been
 active in code review and development of the project since then. Ironic remains
