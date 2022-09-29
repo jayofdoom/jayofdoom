@@ -5,7 +5,8 @@ I am Jay Faulkner, an Open Source Developer and Advocate. I believe that
 through working with others around the world to solve problems we can make
 the world better. Open source is a great way to do that.
 
-My current employer, [G-Research](https://github.com/G-Research), believes
+My current employer, the
+[G-Research Open Source Software team](https://github.com/G-Research), believes
 that and enables me to work on open source software to help ensure that the
 open source ecosystems they rely on remain healthy long term.
 
