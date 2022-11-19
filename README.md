@@ -13,7 +13,7 @@ open source ecosystems they rely on remain healthy long term.
 Web Presence
 ============
 - [Personal Blog - https://jay.jvf.cc](https://jay.jvf.cc)
-- <a rel="me" href="https://fosstodon.org/@JayF">Fosstodon - @JayF@fosstodon.org</a>
+- <a rel="me" href="https://fosstodon.org/@JayF">Mastodon https://fosstodon.org/@JayF</a>
 - [Twitter - @jayofdoom](https://twitter.com/jayofdoom)
 - [LinkedIN - https://www.linkedin.com/in/jayfaulkner](https://www.linkedin.com/in/jayfaulkner)
 - [Github - https://github.com/jayofdoom](https://github.com/jayofdoom)
