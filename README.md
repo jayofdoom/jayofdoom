@@ -6,7 +6,7 @@ through working with others around the world to solve problems we can make
 the world better. Open source is a great way to do that.
 
 My current employer, the
-[G-Research Open Source Software team](https://github.com/G-Research), believes
+[G-Research Open Source Software team](https://opensource.gresearch.com), believes
 that and enables me to work on open source software to help ensure that the
 open source ecosystems they rely on remain healthy long term.
 
