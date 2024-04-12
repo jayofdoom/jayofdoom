@@ -30,7 +30,7 @@ computing platform. I've been working on [Ironic](https://ironicbaremetal.org),
 a component that plugs into OpenStack -- or can be used standalone -- to
 provision real, physical hardware as easily as one can provision VMs. I
 currently serve as a member of the OpenStack Technical Committee and as
-Project Team Lead for OpenStack Ironic.
+a core contributor in OpenStack Ironic.
 
 I've been a working on Ironic since the icehouse cycle (2014), and have been
 active in code review and development of the project since then. Ironic remains
@@ -40,20 +40,6 @@ time focus.
 Ironic is an incredibly impressive piece of software, and I'm very proud of
 how far it's come in the years I've worked on it. It'll be fun to see where
 the future leads.
-
-Armada
-------
-[Armada](https://armadaproject.io) is a kubernetes batch meta-scheduler
-currently in the CNCF sandbox. It's used at extreme scale to schedule and
-manage jobs across multiple kubernetes clusters.
-
-I have only recently begun working on Armada, and have been focusing primarily
-on continuous integration, client code, and developer outreach. I spent
-approximately 1/5 of my full time job contributing to Armada.
-
-Armada has opened the door to a separate cloud world altogether -- CNCF and
-kubernetes. It's been interesting to see some of the similarities and
-differences between the tooling and community around it compared to OpenStack.
 
 Gentoo
 ------
