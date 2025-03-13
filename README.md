@@ -72,11 +72,11 @@ focuses on building the system from source. Gentoo linux is the tool I used to
 learn about open source and linux, and I've used it off and on for over 15
 years. Now, it's the primary OS on most computers I run.
 
-I do Gentoo on my own time, cleaning up and helping proxy-maintain ebuilds
-across the main Gentoo repo and a handful of overlays. I'm also a regular
-presence on several Gentoo-related channels on IRC. Come find me there as
-nickname JayF or JasonF. I hope to ramp up my contribution to Gentoo and
-remain a long-term presence in the community.
+I am a [Gentoo developer](https://packages.gentoo.org/maintainer/jayf@gentoo.org)
+on my own time, cleaning up and helping maintain ebuilds across the main Gentoo
+repo and a handful of overlays. I'm also a regular presence on several
+Gentoo-related channels on IRC. Come find me there as nickname JayF or
+JasonF.
 
 Working with Gentoo has enabled me to make small contributions to a myriad of
 open source projects -- mostly minor build fixes. I always enjoy working with
